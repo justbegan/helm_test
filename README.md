@@ -1,0 +1,1 @@
+# Тестовый Helm package
